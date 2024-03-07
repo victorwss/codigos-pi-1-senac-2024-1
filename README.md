@@ -69,4 +69,22 @@ Somente os proprietários do projeto podem adicionar outras pessoas.
 
 6. O seu amigo deverá receber um e-mail com um convite a participar e um link para aceitar o convite.
 
-7. Quando o seu amigo clicar no link, ele já estará no seu projeto.
+7. Assim que o seu amigo clicar no link, ele já estará no seu projeto.
+
+# Como configurar a visibilidade do meu repositório?
+
+1. Encontre as configurações do projeto:
+
+   ![Settings](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/c8e4aba3-94fb-43ce-a3dc-36bca1a1f3a6)
+
+2. Encontre o menu de configurações gerais:
+
+   ![General](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/2f684f3e-c749-4954-aab0-88135ac3b73f)
+
+3. Procure a área de perigo, e lá você poderá tornar seu projeto privado, torná-lo público, arquivar, desarquivar, deletar ou transferí-lo para outra pessoa:
+
+   ![Área de perigo](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/b5332255-377f-474f-88f4-66696161fdd1)
+
+4. O GitHub deverá pedir para você confirmar a sua senha e/ou confirmar se você realmente sabe e tem certeza sobre o que você está fazendo.
+
+Mas tenha cuidado! Como o nome já diz, essa é a área de perigo. Aqui há muito poder destrutivo se isso usado incorretamente ou cair em mãos erradas. E é por isso que o GitHub vai pedir se você tem certeza mesmo.
