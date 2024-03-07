@@ -9,4 +9,4 @@ Para acessar os slides, vá [neste link](https://tinyurl.com/PI1-TADS-Senac).
 
 Para saber mais sobre o Git, veja [aqui](/GIT.md).
 
-Acesse o [exercício de 07/03/2024](Exercicio 2024-03-07.md).
+Acesse o [exercício de 07/03/2024](Exercicio-2024-03-07.md).
