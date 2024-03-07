@@ -10,7 +10,7 @@ Esses são os comandos essnciais para começar a usar o Git:
 
 Dependendo das configurações da sua máquina, o GitHub pode pedir a sua senha para efetuar as alterações. Caso a sua senha já esteja salva na sua máquina, ele tentará utilizar essa senha já armazenada.
 
-Outros comandos pertinentes que necessários de vez em quando são `git branch`, `git revert`, `git rm`, `git mv`, `git resolve` e `git merge`. Cedo ou tarde você vai acabar esbarrando na necessidade de usar um deles, mas não são essenciais para começar a usar.
+Outros comandos pertinentes que necessários de vez em quando são `git branch`, `git revert`, `git rm`, `git mv`, `git resolve`, `git merge`, `git rebase`, `git stash`. Cedo ou tarde você vai acabar esbarrando na necessidade de usar um deles, mas não são essenciais para começar a usar.
 
 Existem vários outros comandos para situações mais específicas.
 
