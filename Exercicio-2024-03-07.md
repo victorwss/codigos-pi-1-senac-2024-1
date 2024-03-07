@@ -1,4 +1,4 @@
-Exercício (07/03/2024):
+# Exercício (07/03/2024):
 
 A. Montem grupos de 3 a 6 pessoas.
    * 7 é muito. 2 é pouco. 1 sozinho nem a pau!
@@ -34,6 +34,8 @@ H. Não coloque arquivos a mais que não estejam no enunciado deste exercício.
 I. Edite o arquivo `README.md` e coloque o seu nome nele. Todos os membros do grupo devem editar esse arquivo! O histórico de edições do GitHub mostrará se isso de fato ocorreu ou não. No fim, o arquivo deverá ter o nome de todos os integrantes.
 
 J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
+
+# Atividades para o seu grupo escolher uma:
 
 1. Peça para o usuário digitar, em centímetros, o raio e a altura de um cilindro e calcule o seu volume em centímetros cúbicos.
 2. Peça para o usuário digitar, em centímetros, a altura, a largura e o comprimento de uma caixa de papelão em forma de paralelepípedo e calcule o volume da caixa em litros.
