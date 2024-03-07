@@ -11,7 +11,7 @@ Para acessar os slides, vá [neste link](https://tinyurl.com/I1-TADS-Senac).
 
 1. Clique no seu link "Your repositories":
    
-   ![Your repositories](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/c1f00a93-74ce-48fe-881f-38d127af734a)
+   ![Your repositories](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/f19c8115-2244-4d80-8236-ffe0c16b4281)
 
 2. Encontre o botão para criar um novo repositório:
    
