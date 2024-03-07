@@ -23,4 +23,14 @@ Para acessar os slides, vá [neste link](https://tinyurl.com/I1-TADS-Senac).
 
 # Como forkar um repositório?
 
+1. Encontre o projeto que você quer forkar e clique no botão "Fork":
+
+   ![Fork](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/27113758-60e1-4f90-b798-513c45d9d74d)
+
+2. Verifique o nome do projeto e clique no botão de confirmar:
+
+   ![Forking](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/ff576a62-66f2-455f-846a-0f8516286a20)
+
 # Como adicionar pessoas ao repositório?
+
+1. xxxx
