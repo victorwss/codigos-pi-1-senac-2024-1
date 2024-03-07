@@ -1,0 +1,258 @@
+// Diferente do JavaScript ao invés de declarar a variável com let, usamos o tipo dela para declarar:
+public class TesteDeclare {
+    public static void main(String[] args) {
+        int x = 5;
+        String y = "abc";
+        double z = 7.3;
+        x = 6; // Atualiza a variável.
+        int x = 7; // Erro, não pode declarar a mesma variável duas vezes.
+    }
+}
+
+// O equivalente ao const do JavaScript é o final no Java:
+public class TesteDeclareFinal {
+    public static void main(String[] args) {
+        final int x = 5;
+        final String y = "abc";
+        final double z = 7.3;
+        x = 6; // Erro, x não pode ser alterada.
+    }
+}
+
+// Tentar violar as regras de tipo resulta em erro de compilação:
+public class TesteErroDeTipo {
+    public static void main(String[] args) {
+        int a = 7.5; // Erro.
+        String b = 8; // Erro.
+        double c = "abc"; // Erro.
+        int d = 10; // Ok aqui.
+        d = 3.14; // Erro.
+        d = "oi"; // Erro.
+    }
+}
+
+/*
+ * A partir do Java 10, algumas variáveis podem ser declaradas com var desde que sejam locais e o compilador
+ * tenha informação suficiente para adivinhar o seu tipo:
+ */
+public class TesteVar {
+    public static void main(String[] args) {
+        var a = 7.5; // x é do tipo double.
+        var b = 8; // y é do tipo int.
+        System.out.println(a + b);
+        var c = "abc"; // z é do tipo String.
+        System.out.println(c + c);
+    }
+}
+
+// Se não for possível o compilador descobrir o tipo ao usar var, o resultado é um erro de compilação:
+public class TesteVarComErro {
+    public static void main(String[] args) {
+        var a; // Erro.
+        a = 6;
+        System.out.println(a);
+    }
+}
+
+/*
+ * As regras do Java são similares ao JavaScript: Os operadores +, -, /, * e % são iguais.
+ * As regras de parênteses são as mesmas.
+ */
+public class TesteOperadores {
+    public static void main(String[] args) {
+        System.out.println(3 - 7 * (5 + 1) + 2);
+    }
+}
+
+// Operações com tipos errado causam erro de compilação:
+public class TesteOperadoresAbsurdos {
+    public static void main(String[] args) {
+        System.out.println("melancia" * "uva"); // Erro.
+    }
+}
+
+// Cuidado ao usar / com números inteiros:
+public class TesteDivisao {
+    public static void main(String[] args) {
+        System.out.println(7 / 2);
+        System.out.println(7.0 / 2.0);
+    }
+}
+
+// Divisão por zero causa um erro durante a execução do programa:
+public class TesteDivisaoZero {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 0;
+        System.out.println(a / b);
+    }
+}
+
+// O Java não tem o operador **: Use o método Math.pow ao invés disso.
+public class TestePow {
+    public static void main(String[] args) {
+        System.out.println(Math.pow(7, 2));
+        System.out.println(Math.pow(2.5, 2.5));
+    }
+}
+
+// Em alguns casos usar multiplicações repetidas para fazer exponenciação pode ser mais simples do que Math.pow:
+public class TesteMultiplicacoesRepetidas {
+    public static void main(String[] args) {
+        int x = 7;
+        int y = 8;
+        System.out.println(x * x); // x²
+        System.out.println(y * y * y); // y³
+    }
+}
+
+/*
+ * Apesar do Java ser bem menos propenso do que o JavaScript a produzir resultados
+ * sem sentido (como NaN e Infinity), isso ainda é possível:
+ */
+public class TesteCriaNaNs {
+    public static void main(String[] args) {
+        double a = 5;
+        double b = 0;
+        var c = a / b;
+        System.out.println(c);
+        System.out.println(c / c);
+        System.out.println(Math.pow(-1, 0.5));
+    }
+}
+
+/*
+ * Para converter de double para int, a forma mais simples é com um cast
+ * (o tipo entre parênteses indica para quê ela será convertida):
+ */
+public class TesteCast {
+    public static void main(String[] args) {
+        int x = (int) 7.5;
+        System.out.println(x);
+    }
+}
+
+// O cast pode ser usado para forçar um tipo de número se possível:
+public class TesteCastEspecial {
+    public static void main(String[] args) {
+        int a = 7;
+        int b = 2;
+        System.out.println(a / b);
+        System.out.println(((double) a) / b);
+    }
+}
+
+// Para converter int ou double para String, uma forma simples é concatenar com "":
+public class TesteConverterParaString {
+    public static void main(String[] args) {
+        var a = 1;
+        var b = 1;
+        var c = "" + a + b;
+        var d = "" + 7.7;
+        System.out.println(c);
+        System.out.println(d);
+    }
+}
+
+// Para converter de String para int ou para double, use Integer.parseInt e Double.parseDouble:
+public class TesteParseIntParseDouble {
+    public static void main(String[] args) {
+        int a = Integer.parseInt("12");
+        double b = Double.parseDouble("6.8");
+        System.out.println(a + b);
+    }
+}
+
+/*
+ * A declaração de funções/métodos é similar ao JavaScript. No entanto:
+ * - Cada parâmetro deve ter o seu tipo.
+ * - O tipo de retorno do método é colocado antes do seu nome.
+ *   - O tipo de retorno corresponde ao tipo de variável que o resultado do método têm.
+ * - Coloque o prefixo "public static" no método. Por quê? Canas dos próximos capítulos...
+ */
+public class TesteSomar {
+    public static void main(String[] args) {
+        System.out.println(somar(5.6, 9.4));
+    }
+
+    // O primeiro double é o tipo de retorno.
+    // O segundo double é o tipo de a.
+    // O terceiro double é o tipo de b.
+    public static double somar(double a, double b) {
+        return a + b;
+    }
+}
+
+/*
+ * Para ler uma String que o usuário digitou, primeiro crie um Scanner e depois use nextLine.
+ * Não esqueça a linha do import no começo do arquivo.
+ * Para escrever algo sem a quebra-de-linha, use print ao invés de println.
+ * Fica assim:
+ */
+import java.util.Scanner;
+
+public class LerValores {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in); // Cria um Scanner aqui.
+        System.out.print("Digite o seu nome: "); // Dá print sem quebra-de-linha.
+        String nome = scan.nextLine(); // Usa o Scanner criado.
+        System.out.println("Boa noite, " + nome + ".");
+    }
+}
+
+/*
+ * Para ler um número que o usuário digita,
+ * combine o nextLine() com o parseInt() ou parseDouble():
+ */
+import java.util.Scanner;
+
+public class LerValoresNumericos {
+    public static void main(String[] args) {
+        var scan = new Scanner(System.in);
+
+        System.out.print("Digite o seu nome: ");
+        var nome = scan.nextLine();
+
+        System.out.print("Digite a sua idade: ");
+        var idade = Integer.parseInt(scan.nextLine());
+
+        System.out.print("Digite o número do seu sapato: ");
+        var sapato = Double.parseDouble(scan.nextLine());
+
+        System.out.println("Ei, " + nome + ", o dobro da sua idade é de " + idade * 2 + " anos.");
+        System.out.println("Será que isso é muito pra um pé de tamanho " + sapato + "?");
+    }
+}
+
+/*
+ * Agora vamos reimplementar o exemplo de somar 2 números digitados
+ * pelo usuário que vimos no JavaScript:
+ */
+import java.util.Scanner;
+
+public class TestePedir2NumerosESomar {
+    public static void main(String[] args) {
+        var scan = new Scanner(System.in);
+
+        System.out.print("Digite o primeiro número: ");
+        var a = Integer.parseInt(scan.nextLine());
+
+        System.out.print("Digite o segundo número: ");
+        var b = Integer.parseInt(scan.nextLine());
+
+        var resultado = somar(a, b);
+        System.out.println("O resultado é " + resultado);
+    }
+
+    public static double somar(double a, double b) {
+        return a + b;
+    }
+}
+
+/*
+ * Agora vamos reimplementar o exemplo de a³ + b² + c.
+ * E peça para o usuário digitar esses valores:
+ */
+public class EquacaoSimples {
+    // Por favor, coloque o código aqui!
+}
