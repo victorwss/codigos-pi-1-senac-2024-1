@@ -7,6 +7,22 @@ Para baixar este repositório, execute o seguinte comando:
 
 Para acessar os slides, vá [neste link](https://tinyurl.com/I1-TADS-Senac).
 
+# Quais são os comandos básicos para usar o git?
+
+* `git clone https://github.com/seu-nome/seu-projeto` - Cria uma pasta com todo o conteúdo do projeto.
+* `git add arquivo.txt` - Adiciona um arquivo ao seu repositório de trabalho.
+* `git commit -m "Mensagem de commit."` - Confirma as alterações que você já fez no projeto, criando um checkpoint/savepoint.
+* `git push` - Envia as alterações realizadas para o GitHub.
+* `git pull` - Puxa do GitHub quaisquer alterações que tenham sido disponibilizadas.
+
+Dependendo das configurações da sua máquina, o GitHub pode pedir a sua senha para efetuar as alterações. Caso a sua senha já esteja salva na sua máquina, ele tentará utilizar essa senha já armazenada.
+
+Outros comandos pertinentes necessários de vez em quando são `git branch`, `git revert`, `git rm`, `git mv` e `git merge`. Cedo ou tarde você vai acabar esbarrando na necessidade de usar um deles, mas não são essenciais para começar a usar.
+
+Existem vários outros comandos para situações mais específicas.
+
+Ou, se você é usuário do Windows, sugiro o uso do [TortoiseGit](https://tortoisegit.org/).
+
 # Como criar um repositório?
 
 1. Clique no seu link "Your repositories":
@@ -33,4 +49,24 @@ Para acessar os slides, vá [neste link](https://tinyurl.com/I1-TADS-Senac).
 
 # Como adicionar pessoas ao repositório?
 
-1. xxxx
+Somente os proprietários do projeto podem adicionar outras pessoas.
+
+1. Encontre as configurações do projeto:
+
+   ![Settings](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/c8e4aba3-94fb-43ce-a3dc-36bca1a1f3a6)
+
+2. Encontre o menu para adicionar colaboradores:
+
+   ![Colaboradores](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/8f7adee0-d056-4500-b6a8-ac6165cbb3d6)
+
+3. Encontre o botão para adicionar pessoas:
+
+   ![Adicionar pessoas](https://github.com/victorwss/codigos-pi-1-senac-2024-1/assets/4574568/3e54f481-55fe-4e89-a516-664c52d618f1)
+
+4. O GitHub vai pedir a sua senha e confirmação em duas etapas.
+
+5. Digite o nome de usuário do seu amigo colaborador e confirme.
+
+6. O seu amigo deverá receber um e-mail com um convite a participar e um link para aceitar o convite.
+
+7. Quando o seu amigo clicar no link, ele já estará no seu projeto.
