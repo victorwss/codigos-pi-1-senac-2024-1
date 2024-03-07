@@ -1,6 +1,6 @@
 # Quais são os comandos básicos para usar o git?
 
-Esses são os comandos essnciais para começar a usar o Git:
+Esses são os comandos essenciais para começar a usar o Git:
 
 * `git clone https://github.com/seu-nome/seu-projeto` - Cria uma pasta com todo o conteúdo do projeto.
 * `git add arquivo.txt` - Adiciona um arquivo ao seu repositório de trabalho.
