@@ -23,6 +23,7 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Exemplares extraviados ou inutilizados
 * Estado de conservação de exemplares e páginas faltando
 * Usuários com empréstimos em atraso
+* Lista negra de usuários
 
 # 2. Sistema de estacionamento
 
@@ -68,7 +69,7 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Aluguéis atrasados
 * Reajustes de aluguéis
 
-# 6. Sistema de karaokê
+# 6. Sistema de karaokê (para uma equipe pequena)
 
 * Cadastro de músicas
 * Artistas e bandas
@@ -142,3 +143,5 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Cadastro de disciplinas
 * Cadastro de turmas
 * Lançamento de notas
+
+# 14. ...
