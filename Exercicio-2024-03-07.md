@@ -1,4 +1,4 @@
-# Exercício (07/03/2024):
+# Exercício (<strike>07</strike> 14/03/2024):
 
 A. Montem grupos de 3 a 6 pessoas.
    * 7 é muito. 2 é pouco. 1 sozinho nem a pau!
@@ -49,3 +49,47 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 10. Peça para o usuário digitar qual é o gasto de combustível em quilômetros por litro, o preço do litro de combustível e a distância percorrida e calcule o preço total do combustível.
 11. Peça para o usuário digitar quantos quartos tem um hotel, quanto tempo em minutos uma camareira demora para limpar o quarto e quantas camareiras estão trabalhando e calcule o tempo estimado para todos os quartos serem limpos.
 12. Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção.
+
+## Como ficaria o código:
+
+* Arquivo `Pedir2NumerosESomar.java`:
+
+```java
+import java.util.Scanner;
+
+public class Pedir2NumerosESomar {
+    public static void main(String[] args) {
+        var scan = new Scanner(System.in);
+
+        System.out.print("Digite o primeiro número: ");
+        var a = Integer.parseInt(scan.nextLine());
+
+        System.out.print("Digite o segundo número: ");
+        var b = Integer.parseInt(scan.nextLine());
+
+        var resultado = somar(a, b);
+        System.out.println("O resultado é " + resultado);
+    }
+
+    public static double somar(double a, double b) {
+        return a + b;
+    }
+}
+```
+
+* Arquivo `Pedir2NumerosESomar.js`:
+
+```js
+"use strict";
+
+function pedirSomar() {
+    let a = prompt("Digite o primeiro número:") * 1;
+    let b = prompt("Digite o segundo número:") * 1;
+    let resultado = somar(a, b);
+    console.log("O resultado é " + resultado);
+}
+
+function somar(a, b) {
+    return a + b;
+}
+```
