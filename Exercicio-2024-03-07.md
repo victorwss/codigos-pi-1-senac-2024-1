@@ -52,6 +52,10 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 ## Como ficaria o código:
 
+Problema escolhido:
+
+> Peça para o usuário digitar dois números e informe-lhe qual é o valor da soma desses dois números.
+
 * Arquivo `Pedir2NumerosESomar.java`:
 
 ```java
