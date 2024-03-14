@@ -92,4 +92,6 @@ function pedirSomar() {
 function somar(a, b) {
     return a + b;
 }
+
+pedirSomar();
 ```
