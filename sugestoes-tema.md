@@ -160,3 +160,13 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Placares
 * Pontuação
 * Classificação no campeonato
+
+# 16. Sistema de petshop
+
+* Cadastro de animais
+* Cadastro de proprietários
+* Cadastro de serviços (banho, tosa, vermifugação, vacina, etc.)
+* Histórico de serviços de animal
+* Tipos de animais (cão, gato, ave, peixe, tartaruga, etc.)
+* Venda de produtos (ração, gaiolas, areia sanitária, correias, coleiras, casinhas, etc.)
+* Venda de animais
