@@ -47,7 +47,7 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 5. Peça para o usuário digitar o valor-hora de um funcionário, o número de dias trabalhados no mês e o número de horas trabalhadas por dia e calcule qual é o valor que lhe será pago. - Vitor, Gabriel Bráulio e Emily.
 
-6. Peça para o usuário digitar a velocidade em quilômetros POR HORA de um avião e a distância entre dois aeroportos em quilômetros e calcule a estimativa de quantos MINUTOS a viagem vai demorar. - Douglas Souza, Otavio, Alex, Marcos, Adrian, Manoel.
+6. Peça para o usuário digitar a velocidade em quilômetros POR HORA de um avião e a distância entre dois aeroportos em quilômetros e calcule a estimativa de quantos MINUTOS a viagem vai demorar. - Douglas Sousa, Otavio, Alex, Marcos, Adrian, Manoel.
 
 7. Uma vaga de garagem ocupa 6 metros quadrados e precisa de mais 4 como espaço de manobra. Peça para o usuário digitar o número de andares de um prédio, o número de apartamentos por andar e calcule qual é a área do estacionamento. Cada apartamento tem direito a só uma vaga.
 
@@ -61,7 +61,7 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 12. Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.
 
-Sem grupo - Washington
+Sem grupo - Washington, Douglas Rodrigues
 
 ## Como ficaria o código:
 
