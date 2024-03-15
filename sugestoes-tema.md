@@ -1,5 +1,3 @@
-# ATENÇÃO: Isso ainda não está pronto
-
 Aqui são listadas algumas ideias de sistemas a serem desenvolvidos.
 
 Todas estão bem abertas de propósito, pois vocês é que terão ao longo do semestre que definir quais funcionalidades fazem sentido ou não.
