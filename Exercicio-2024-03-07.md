@@ -52,7 +52,7 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 7 - Uma vaga de garagem ocupa 6 metros quadrados e precisa de mais 4 como espaço de manobra. Peça para o usuário digitar o número de andares de um prédio, o número de apartamentos por andar e calcule qual é a área do estacionamento. Cada apartamento tem direito a só uma vaga. - NINGUÉM.
 
-**8 - Peça para o usuário, que é o dono de uma pizzaria, qual é o preço da pizza marguerita, da pizza calabreza e da pizza napolitana, quantas unidades de cada uma ele vendeu e dê o preço total das vendas realizadas. - Fernanda, Miguel, Kalliani, Giovanna, Cleber e Alexander.**
+**8 - Peça para o usuário, que é o dono de uma pizzaria, qual é o preço da pizza marguerita, da pizza calabreza e da pizza napolitana, quantas unidades de cada uma ele vendeu e dê o preço total das vendas realizadas. - Fernanda, Luis Miguel, Kalliani, Giovanna, Cleber e Alexander.**
 
 9 - Peça para o usuário digitar o valor do DIÂMETRO de uma esfera em centímetros e calcule o volume em centímetros cúbicos. - NINGUÉM.
 
@@ -62,7 +62,7 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 **12 - Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.**
 
-Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan, Luis Miguel, Taynara.
+Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan, Taynara.
 
 ## Como ficaria o código:
 
