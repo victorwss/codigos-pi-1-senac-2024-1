@@ -37,29 +37,30 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 # Atividades para o seu grupo escolher uma:
 
-1. Peça para o usuário digitar, em centímetros, o raio e a altura de um cilindro e calcule o seu volume em centímetros cúbicos.
+1 - Peça para o usuário digitar, em centímetros, o raio e a altura de um cilindro e calcule o seu volume em centímetros cúbicos. - NINGUÉM.
+<br>
 
-2. Peça para o usuário digitar, em centímetros, a altura, a largura e o comprimento de uma caixa de papelão em forma de paralelepípedo e calcule o volume da caixa em litros. - Ranielly, Iago e Vinicius Fideles.
+**2 - Peça para o usuário digitar, em centímetros, a altura, a largura e o comprimento de uma caixa de papelão em forma de paralelepípedo e calcule o volume da caixa em litros. - Ranielly, Iago e Vinicius Fideles.**
 
-3. Peça para o usuário digitar o valor da resistência em ohms de dois resistores ligados em série e a voltagem (em volts) e calcule a intensidade da corrente elétrica (em ampères). - Alisson, Caio, Eric, Guilherme Denobi, Wersington e Walssington.
+**3 - Peça para o usuário digitar o valor da resistência em ohms de dois resistores ligados em série e a voltagem (em volts) e calcule a intensidade da corrente elétrica (em ampères). - Alisson, Caio, Eric, Guilherme Denobi, Wersington e Walssington.**
 
-4. Peça para o usuário digitar o número de produtos vendidos, o preço unitário de cada produto e o valor do frete e forneça o custo total da venda. - Davi, Arthur, Denise, Adriel e Luis Felipe.
+**4 - Peça para o usuário digitar o número de produtos vendidos, o preço unitário de cada produto e o valor do frete e forneça o custo total da venda. - Davi, Arthur, Denise, Adriel e Luis Felipe.**
 
-5. Peça para o usuário digitar o valor-hora de um funcionário, o número de dias trabalhados no mês e o número de horas trabalhadas por dia e calcule qual é o valor que lhe será pago. - Vitor, Gabriel Bráulio e Emily.
+**5 - Peça para o usuário digitar o valor-hora de um funcionário, o número de dias trabalhados no mês e o número de horas trabalhadas por dia e calcule qual é o valor que lhe será pago. - Vitor, Gabriel Bráulio e Emily.**
 
-6. Peça para o usuário digitar a velocidade em quilômetros POR HORA de um avião e a distância entre dois aeroportos em quilômetros e calcule a estimativa de quantos MINUTOS a viagem vai demorar. - Douglas Sousa, Otavio, Alex, Marcos, Adrian, Manoel.
+**6 - Peça para o usuário digitar a velocidade em quilômetros POR HORA de um avião e a distância entre dois aeroportos em quilômetros e calcule a estimativa de quantos MINUTOS a viagem vai demorar. - Douglas Sousa, Otavio, Alex, Marcos, Adrian e Manoel.**
 
-7. Uma vaga de garagem ocupa 6 metros quadrados e precisa de mais 4 como espaço de manobra. Peça para o usuário digitar o número de andares de um prédio, o número de apartamentos por andar e calcule qual é a área do estacionamento. Cada apartamento tem direito a só uma vaga.
+7 - Uma vaga de garagem ocupa 6 metros quadrados e precisa de mais 4 como espaço de manobra. Peça para o usuário digitar o número de andares de um prédio, o número de apartamentos por andar e calcule qual é a área do estacionamento. Cada apartamento tem direito a só uma vaga. - NINGUÉM.
 
-8. Peça para o usuário, que é o dono de uma pizzaria, qual é o preço da pizza marguerita, da pizza calabreza e da pizza napolitana, quantas unidades de cada uma ele vendeu e dê o preço total das vendas realizadas. - Fernanda, Miguel, Kalliani, Giovanna, Cleber, Alexander.
+**8 - Peça para o usuário, que é o dono de uma pizzaria, qual é o preço da pizza marguerita, da pizza calabreza e da pizza napolitana, quantas unidades de cada uma ele vendeu e dê o preço total das vendas realizadas. - Fernanda, Miguel, Kalliani, Giovanna, Cleber e Alexander.**
 
-9. Peça para o usuário digitar o valor do DIÂMETRO de uma esfera em centímetros e calcule o volume em centímetros cúbicos.
+9 - Peça para o usuário digitar o valor do DIÂMETRO de uma esfera em centímetros e calcule o volume em centímetros cúbicos. - NINGUÉM.
 
-10. Peça para o usuário digitar qual é o gasto de combustível em quilômetros por litro, o preço do litro de combustível e a distância percorrida e calcule o preço total do combustível. - Lucas, Myrele, Gabriel Dias e Guilherme Ferra.
+**10 - Peça para o usuário digitar qual é o gasto de combustível em quilômetros por litro, o preço do litro de combustível e a distância percorrida e calcule o preço total do combustível. - Lucas, Myrele, Gabriel Dias e Guilherme Ferra.**
 
-11. Peça para o usuário digitar quantos quartos tem um hotel, quanto tempo em minutos uma camareira demora para limpar o quarto e quantas camareiras estão trabalhando e calcule o tempo estimado para todos os quartos serem limpos. - Camila, Vinícius Monteiro e Jhonny.
+**11 - Peça para o usuário digitar quantos quartos tem um hotel, quanto tempo em minutos uma camareira demora para limpar o quarto e quantas camareiras estão trabalhando e calcule o tempo estimado para todos os quartos serem limpos. - Camila, Vinícius Monteiro e Jhonny.**
 
-12. Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.
+**12 - Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.**
 
 Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan, Luis Miguel, Taynara.
 
