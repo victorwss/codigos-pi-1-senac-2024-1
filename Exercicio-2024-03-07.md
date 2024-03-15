@@ -61,7 +61,7 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 12. Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.
 
-Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan
+Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan, Luis Miguel, Taynara.
 
 ## Como ficaria o código:
 
