@@ -55,13 +55,13 @@ J. Se alguém estiver em dois ou mais grupos, fica com nota zero!
 
 9. Peça para o usuário digitar o valor do DIÂMETRO de uma esfera em centímetros e calcule o volume em centímetros cúbicos.
 
-10. Peça para o usuário digitar qual é o gasto de combustível em quilômetros por litro, o preço do litro de combustível e a distância percorrida e calcule o preço total do combustível. - Lucas, Myrele, Gabriel Dias e Guilherme Ferro.
+10. Peça para o usuário digitar qual é o gasto de combustível em quilômetros por litro, o preço do litro de combustível e a distância percorrida e calcule o preço total do combustível. - Lucas, Myrele, Gabriel Dias e Guilherme Ferra.
 
 11. Peça para o usuário digitar quantos quartos tem um hotel, quanto tempo em minutos uma camareira demora para limpar o quarto e quantas camareiras estão trabalhando e calcule o tempo estimado para todos os quartos serem limpos. - Camila, Vinícius Monteiro e Jhonny.
 
 12. Peça para o usuário digitar quantas toneladas de grãos serão colhidas e a capacidade de cada caminhão que escoará a produção e dê uma estimativa de quantos caminhões serão necessários para escoar a produção. - Izabela, Derick e Ryan.
 
-Sem grupo - Washington, Douglas Rodrigues
+Sem grupo - Washington, Douglas Rodrigues, Gustavo, João Victor, Luan
 
 ## Como ficaria o código:
 
