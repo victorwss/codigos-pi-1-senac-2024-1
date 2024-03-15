@@ -144,4 +144,21 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Cadastro de turmas
 * Lançamento de notas
 
-# 14. ...
+# 14. Sistema de eventos
+
+* Cadastro de eventos (show, festa, reunião, comício, competição esportiva, etc)
+* Cadastro de locais de eventos
+* Horários e datas de eventos
+* Participantes / convidados
+* Disponibilização ou venda de ingressos
+* Cadastro de donos/proprietários/responsáveis pelo evento
+
+# 15. Controle de competição esportiva
+
+* Cadastro de equipes
+* Cadastro de jogadores
+* Cadastro de jogos
+* Locais de jogos
+* Placares
+* Pontuação
+* Classificação no campeonato
