@@ -175,6 +175,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 16. Sistema de petshop
 
+> Fernanda, Kaliani, Luis Miguel, Taynara, Giovana, Alexander, Cleber
+
 * Cadastro de animais
 * Cadastro de proprietários
 * Cadastro de serviços (banho, tosa, vermifugação, vacina, etc.)
