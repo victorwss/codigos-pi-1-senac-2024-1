@@ -77,6 +77,7 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Vamos cantar - apresentar a letra na tela nos tempos corretos
 
 # 7. Sistema de pizzaria
+Guilherme Ferra, Lucas da Silva, Mireli, Gabriel Dias
 
 * Cadastro de pizzas
 * Cadastro de clientes
