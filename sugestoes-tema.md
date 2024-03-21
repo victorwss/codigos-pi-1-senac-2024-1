@@ -25,6 +25,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 2. Sistema de estacionamento
 
+> Derick, Izabela, Ryan
+
 * Cadastro de vagas
 * Cadastro de veículos
 * Cadastro de condutores
@@ -34,7 +36,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Lista negra de condutores
 
 # 3. Sistema de farmácia
-- Denise, Adriel, Davi, Luis, Arthur
+
+> Denise, Adriel, Davi, Luis, Arthur
 
 * Cadastro de medicamentos
 * Forma de uso de medicamento
@@ -58,6 +61,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 5. Sistema de imobiliária
 
+> Ranieli, Iago, Washington, Vinicius Fideles
+
 * Cadastro de imóvel
 * Cadastro de locadores
 * Cadastro de locatário
@@ -77,7 +82,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Vamos cantar - apresentar a letra na tela nos tempos corretos
 
 # 7. Sistema de pizzaria
-Guilherme Ferra, Lucas da Silva, Mireli, Gabriel Dias
+
+> Guilherme Ferra, Lucas da Silva, Mireli, Gabriel Dias
 
 * Cadastro de pizzas
 * Cadastro de clientes
