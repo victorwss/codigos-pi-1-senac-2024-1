@@ -99,6 +99,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 8. Sistema de transportadora
 
+> Jhonny, Camila, Vinicius Monteiro
+
 * Cadastro de veículos da frota
 * Cadastro de motoristas
 * Cadastro de clientes
