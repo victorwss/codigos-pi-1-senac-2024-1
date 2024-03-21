@@ -50,6 +50,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 4. Sistema de hotel
 
+> Douglas Sousa, Alex, Adrian, Marcos, Rebeca, Otavio
+
 * Cadastro de quartos
 * Cadastro de hóspedes
 * Reserva de quartos
