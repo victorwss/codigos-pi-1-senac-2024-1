@@ -154,6 +154,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 14. Sistema de eventos
 
+> Eric, Alisson, Guilherme Denobi, Wersington, Walssimon
+
 * Cadastro de eventos (show, festa, reunião, comício, competição esportiva, etc)
 * Cadastro de locais de eventos
 * Horários e datas de eventos
