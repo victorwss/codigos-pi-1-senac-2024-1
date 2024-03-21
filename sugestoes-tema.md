@@ -34,6 +34,7 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 * Lista negra de condutores
 
 # 3. Sistema de farmácia
+- Denise, Adriel, Davi, Luis, Arthur
 
 * Cadastro de medicamentos
 * Forma de uso de medicamento
