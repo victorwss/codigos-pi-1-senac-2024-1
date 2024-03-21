@@ -125,6 +125,8 @@ Cada grupo deve escolher um sistema diferente. Se nenhuma das sugestões te agra
 
 # 11. Sistema de RH
 
+> Gabriel Braulio, Emily, Vitor, Caio
+
 * Cadastro de funcionários
 * Controle de férias
 * Controle de salários
